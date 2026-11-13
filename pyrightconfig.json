@@ -1,0 +1,26 @@
+{
+  "include": [
+    "backend"
+  ],
+  "exclude": [
+    "**/node_modules",
+    "**/__pycache__"
+  ],
+  "pythonPath": "C:\\Users\\Omer Tech\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+  "pythonVersion": "3.11",
+  "extraPaths": [
+    "backend",
+    "C:\\Users\\Omer Tech\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages"
+  ],
+  "executionEnvironments": [
+    {
+      "root": "backend",
+      "pythonPath": "C:\\Users\\Omer Tech\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+      "pythonVersion": "3.11",
+      "extraPaths": [
+        "backend",
+        "C:\\Users\\Omer Tech\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages"
+      ]
+    }
+  ]
+}

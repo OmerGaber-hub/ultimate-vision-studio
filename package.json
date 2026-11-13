@@ -1,0 +1,24 @@
+{
+  "name": "ultimate-vision-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Enterprise-grade Computer Vision & Layer-based Image Processing Studio",
+  "scripts": {
+    "dev:frontend": "cd frontend && npm run dev",
+    "build:frontend": "cd frontend && npm run build",
+    "dev:backend": "cd backend && uvicorn main:app --reload --port 8000",
+    "test": "python -m unittest discover tests"
+  },
+  "keywords": [
+    "computer-vision",
+    "opencv",
+    "yolo11",
+    "fastapi",
+    "react19",
+    "image-processing",
+    "gemini-ai",
+    "canvas-editor"
+  ],
+  "author": "Omer Farooq Gaber & Team",
+  "license": "MIT"
+}

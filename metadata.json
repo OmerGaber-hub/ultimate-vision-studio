@@ -1,0 +1,6 @@
+{
+  "name": "Ultimate Vision Studio",
+  "description": "استوديو احترافي للرؤية الحاسوبية ومعالجة الصور يجمع بين معالجة الطبقات وخوارزميات OpenCV الرياضية وأدوات الذكاء الاصطناعي الفائقة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
